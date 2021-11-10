@@ -8,7 +8,7 @@ My python file ```ebay-dl.py``` utilizes the ```argparse```, ```bs4```, and ```r
 # 2. How to run my ebay-dl.py file:
 1. Open ```ebay-dl.py``` in VSCode
 2. Run the following line in terminal 
-```$ python3 ebay-dl.py 'laptop' ```
+<code>$ python3 ebay-dl.py 'laptop'<code>
 
 
 # 3. A link to the course project to see the instructions: 
