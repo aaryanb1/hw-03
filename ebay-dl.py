@@ -116,8 +116,8 @@ for page_number in range(1, int(args.num_pages)+1):
         }
         items.append(item)
 
-    print('len(tags_items)=', len(tags_items))
-    print('len(items)=', len(items))
+    #print('len(tags_items)=', len(tags_items))
+    #print('len(items)=', len(items))
 
 filename = args.search_term+'.json'
 with open(filename, 'w', encoding='ascii') as f:
