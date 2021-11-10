@@ -9,15 +9,15 @@ My python file ```ebay-dl.py``` utilizes the ```argparse```, ```bs4```, and ```r
 
 # 2. How to run my ebay-dl.py file:
 1. Open ```ebay-dl.py``` in VSCode
-2. Run the following command in terminal in order to create a json file called iphone.json that has scraped iphone products details off of ebay
+2. Run the following command in terminal in order to create a json file called ```iphone.json``` that has scraped iphone products details off of ebay
 ```
 $ python3 ebay-dl.py 'iphone'
 ```
-3. Keep the same command as above, but replace 'iphone' with 'toys' in the terminal. This will create a json file called toys.json
+3. Keep the same command as above, but replace 'iphone' with 'toys' in the terminal. This will create a json file called ```toys.json```
 ```
 $ python3 ebay-dl.py 'toys'
 ```
-4. Keep the same command as above, but replace 'toys' with 'drill press' in the terminal. This will create a json file called drill press.json
+4. Keep the same command as above, but replace 'toys' with 'drill press' in the terminal. This will create a json file called ```drill press.json```
 ```
 $ python3 ebay-dl.py 'drill press'
 ```
